@@ -2,6 +2,7 @@
 title: "유한계급론"
 date: 2018-12-28 08:00:00 -0400
 categories: law book
+comments: True
 ---
 
 # **유한계급론 _ 소스타인 베블런**
