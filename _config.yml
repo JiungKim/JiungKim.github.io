@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "Jiung Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Yonsei Commercial Law"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
