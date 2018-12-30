@@ -1,7 +1,7 @@
 ---
 title: "남한산성"
 date: 2018-12-28 08:00:00 -0400
-categories: book review
+categories: [Book_review]
 comments: True
 ---
 
